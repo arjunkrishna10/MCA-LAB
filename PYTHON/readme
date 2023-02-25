@@ -1,1 +1,122 @@
-
+								PROGRAM LIST
+Accept the radius from user and find area of circle.
+Find biggest of 3 numbers entered by user from console.
+Create a string from an input string where all occurence of the first character replaced with '&' except first character.
+Accept an integer n<10 and compute n+nn+nnn.
+Accept a filename from user and print extension of that.
+Create a word from given string by exchanging first and last character.
+Create a single string seperated with space from two strings by swapping character at position 1.
+Display leap years from current year to a future year entered by user.
+Accept comma seperated colour names from user and print alternate colours.
+Count the no: of worrds in a sentance.
+Create a list of first names. Count the no: of names starting with 'a'.
+List comprehension
+Generate a positive list of numbers from a given list.
+Generate a list with square of numbers from a givem list.
+From a list containing vowels from a given word.
+Generate ordinal value for each letter of a word.
+Generate a list removing even numbers.
+Write python program to merge two dictonaries.
+Write a program to sort a dictonary in ascending and descending order.
+Print out all colours from colour list1 not contained in colour list2.
+Write a program to determine frequency of words in a sentance.
+Write a program to determine frequency of alphabets in a word.
+Enter 2 collections of integers. Check (a) whether they are of the same length (b) whether they sums to the same value (c) whether any value occur in both.
+Write a program to remove duplicate from a list.
+Write a program to create an inverted dictonary.
+Write a program to check if a given key is already exists in a dictionary.
+Write a python program to add 'ing' at the end of the word. If already ends with 'ing', then ass 'ly'.
+Accept a sentance from user and return length of the longest word, if the result has more than one word, then print 'BINGO'.
+Accept the percentage of marks from user and display grade.
+Percentage	Grade
+>90	O
+80-90	A
+70-80	B
+50-70	C
+<50	F
+Generate a string by combaining first two characters and last two characters from an input string. If the length of input string is 2, then resultant string must be a concatenation of those characters or if length less than 2, return an empty string instead.
+Find the first appearance of 'not' followed by 'bad' in a given string. If found then replace the whole 'not bad' substring with 'good'.
+Evaluate using conditional statement.
+Check whether a given number is even or odd and return even or odd appropiately.
+Check whether an item is available in a list and return 'Available' or 'Not available' appropiately.
+Write a python program to find factorial of a number.
+Write a program to generate Fibonacci series of m terms.
+Find sum of all numbers in a list.
+Generate a list of four digit numbers in a given range with all their digits even and the number is a perfect square.
+Display the given pyramid with step number accepted from user.
+Generate the pattern.
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+Write a program to generate all factors of a given number.
+Find GCD of 2 numbers.
+Accept a list of integers from user. For all values above 100 store the string 'Over' in the specific position.
+Accept a sentance from user and display the total count of vowels in the sentance.
+Write a program that print numbers from 1 to 20. For every mupltiple of 3, print 'Fizz', for every multiple of 5, print 'Buzz' and for every multiple of both 3 and 5 print 'FizzBuzz', instead of the original number.
+Write a program to search an item in a given list and display the number of occurences of the given item.
+Write a program to print all even numbers from a given list in the given order until you reach number 237 or end of the list.
+Write a program to remove all odd indexed characters from a given string.
+Write a program that accepts a comma seperated sequence of words as input and print unique words insorted order.
+Write a program that count the number of strings where string length is 2 or more and the first and last characters are same.
+Write a program that count odd and even numbers in a given list.
+Write a program that accepts a sequence of comma seperated 4 digit binary numbers and print those numbers divisible by 5 as comma seperated sequence.
+Write a function to get a new string from a given string by adding 'Is' to the begining of the input string. If the given string already begins with 'Is', return the input string unchanged.
+Write a function that accept aword and a count, n(non-negative integer) and return n copies of the word.
+Write a function that accepts 2 integers, perform the 4 basic arithmetic opereations and return the result.
+Write a function that returns whether 2 integers given are equal, they adds to 5 and their difference is 5.
+Write lambda functions:
+To find largest of 2 numbers.
+To check the input number is divisible by 5.
+To remove all strings with length < 5 from a list of strings.
+To increment a list of integers by 10% if the number is greater than 1000 else by 5%.
+Write lambda functions, each to find area of square, rectangle and triangle.
+Write a recursive function to find factorial of a number.
+Write a recursive function to find n th term in the Fibonacci series.
+Write a recursive function to find the sum of digits of a given number.
+Write a recursive function to find sum of first n whole numbers.
+Write a recursive function to reverse a string.
+Write a recursive function to convert a decimal number to binary.
+Validate Password
+Min length 6
+Max length 16
+Starts with character or digit
+Should have atleast one uppercase, lowercase, digit and symbol
+Write a program to demonstrate a ZeroDivisionError snd ValueError
+Write a program that accepts an integer from user and raises ValueError with argument 'Abnormal Condition', if the reading is not within the range 90 and 120.
+Create a user defined exception 'validate' to validate login credentials.
+Work with built-in modules – calendar, datetime modules.
+Create a module operations which has functions to add, subtract, multiply and divide integers. Write a program that import operations and perform all integer operations.
+Create a package graphics with modules rectangle, circle and sub-package dgraphics with modules cuboid and sphere. Include methods to find area and perimeter of rectangle and circle modules as well as methods to find area and volume of cuboid and sphere modules. Write programs that finds area, perimeter or volume of figures by different importing statements. (Include selective import of modules and import * statements)
+Write a program to copy one file to another.
+Write a program to find longest line of a file.
+Remove a specific line from a file.
+Find the no: of lines in a file.
+Seperate odd and even numbers in a file to separate files.
+Find the longest word(s) in a file.
+Create Rectangle class with attributes length and breadth and implement methods to determine area and perimeter. Create a Rectangle object and find its area and perimeter.
+Create a class Flower (name). Add the attribute petalColor at runtime. If the flower has the attribute petalColor then display ‘<petalColor> <name>’ else display ‘Unknown Flower’.
+Create class Book (title, author). Add attribute ‘publisher’ at runtime. If the attribute ‘publisher’ is available in Book object, then print <title> written by <author> is published by <publisher>, else print ‘Unknown Publisher’
+Create a Bank account with members account number, name, type of account and balance. Write constructor and methods to deposit at the bank and withdraw an amount from the bank.
+Create a class Rectangle with private attributes length and width.Overload ‘<’ operator to compare the area of 2 rectangles.
+Create a class Time with private attributes hour, minute and second. Overload ‘+’ operator to find sum of 2 time.
+Create class Time (Hour, Min, Sec). Compare two time objects in 24-hour clock and return the earliest time.
+Create class Person (name, roll) and Marks (Maths, Computer). Create class Student from Person and Marks. Display student details and pass percentage if 50% is needed for a pass.
+Create class Rectangle (length,breadth). Derive class Cuboid (height) from Rectangle. Compare 2 Cuboid based on volume by overloading ‘<=’ operator.
+Create a class Publisher (name). Derive class Book (title, author) from Publisher. Derive class Python (price,no_of_pages) from Book. Write a program that displays information about a Python book. Use base class constructor invocation and method overriding.
+Create class Person (name,phno). Create class Dept (name,location). Derive class Employee (designation, Salary) from Person and Dept. Display details of an employee after giving 10% increment to salary.
+Compare 2 Emp with respect to department. (==)
+Compare 2 Emp with respect to salary (>=)
+Write a python program to extract lines from a file
+Containing the word ‘explain’
+Containing dates
+Containing 8 or above letter words
+Containing mobile numbers
+Write a Python program to read each row from a given csv file and print a list of strings.
+Write a Python program to read specific columns of a given CSV file and print the content of the columns.
+Write a Python program to write a Python dictionary to a csv file. After writing the CSV file read the CSV file and display the content.
